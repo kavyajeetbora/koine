@@ -1,0 +1,6 @@
+distributor_code,distributor_name,lat,lon,city,last_modified
+DIST-01,MOON Distributors - North Delhi,28.545342,77.209453,Delhi,2026-08-04 06:02:05
+DIST-02,MOON Distributors - South Delhi,28.616028,77.2738,Delhi,2026-07-26 13:04:15
+DIST-03,MOON Distributors - Gurgaon,28.419764,76.998928,Gurgaon,2026-06-12 17:27:03
+DIST-04,MOON Distributors - Manesar Road,28.469603,77.032256,Gurgaon,2026-08-12 03:14:40
+DIST-05,MOON Distributors - Noida,28.563837,77.395781,Noida,2026-08-20 18:03:36
